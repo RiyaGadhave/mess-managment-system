@@ -153,8 +153,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Contact
 
 For questions or suggestions, please feel free to reach out:
-- GitHub: [Your GitHub Username]
-- Email: [Your Email]
+- GitHub: RiyaGadhave
+- Email: riyagadhavecse@gmail.com
 
 ---
 
