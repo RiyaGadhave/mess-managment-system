@@ -133,10 +133,6 @@ Monday:
 1. Monthly Plan: ₹3600
 2. Individual Meal: As per menu
 3. One-time Dining: ₹120/day
-
-
-## video of sample output:
-https://drive.google.com/file/d/18R-jzK8uB_5MXkx6N8f1XcJimyvioEK5/view?usp=drivesdk
 ```
 
 ## 🤝 Contributing
@@ -149,6 +145,9 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 3. Commit your changes (`git commit -am 'Add new feature'`)
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
+
+# video of sample output :
+https://drive.google.com/file/d/18R-jzK8uB_5MXkx6N8f1XcJimyvioEK5/view?usp=drivesdk
 
 
 ## 📝 License
