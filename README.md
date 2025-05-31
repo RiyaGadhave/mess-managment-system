@@ -134,7 +134,7 @@ Monday:
 2. Individual Meal: As per menu
 3. One-time Dining: ₹120/day
 
-# video of sample output
+# video of sample output:
 https://drive.google.com/file/d/18R-jzK8uB_5MXkx6N8f1XcJimyvioEK5/view?usp=drivesdk
 ```
 
